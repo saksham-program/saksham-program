@@ -1,5 +1,16 @@
 # 💫 About Me:
-👋 Hi, I’m Saksham<br><br>I’m a Computer Engineering student passionate about building real-world projects using C++, Python, and JavaScript. I enjoy solving practical problems, exploring backend development, and learning how systems work under the hood.<br>Currently, I’m focused on improving my problem-solving skills, contributing to projects, and growing as a software developer.
+Hi, I’m **Saksham** 👋  
+I’m a **Computer Engineering student** passionate about building **real-world, end-to-end software and AI systems**.
+
+I enjoy working across the stack — from **problem-solving and backend logic** to **machine learning pipelines and user-facing applications**. I focus on writing clean, modular code and understanding how systems work under the hood, not just making things “work”.
+
+Currently, I’m strengthening my foundations in:
+- Data Structures & Algorithms  
+- Machine Learning and AI system design  
+- Backend development and APIs  
+- Writing scalable, maintainable software  
+
+I learn best by **building, breaking, and refining projects**.
 
 
 ## 🌐 Socials:
