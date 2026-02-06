@@ -1,66 +1,63 @@
-# 💫 About Me
+<!-- <img align="right" src="/assests/header_modified.png" alt="header" /> -->
 
-Hi, I’m **Saksham** 👋  
-A **Computer Engineering student** passionate about building **real-world software systems and AI-driven applications**.
+### Hi I'm Saksham !! &nbsp; <img src="/assests/hello.gif" alt="hi" width="32" />
 
-I enjoy working on problems that require both **strong fundamentals and practical implementation** — from **data structures and backend logic** to **databases, APIs, and intelligent systems**.  
-I focus on understanding *how things work internally*, not just making them run.
+![version :1.0.0](https://img.shields.io/badge/version-1.0.0-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=saksham-program&color=red)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/saksham-program?label=follow&style=social)](https://github.com/saksham-program)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
-Currently strengthening my foundations in:
-- Data Structures & Algorithms  
-- Backend development & databases  
-- Machine Learning fundamentals  
-- Writing clean, scalable, and maintainable code  
+Welcome to my profile! I'm a **Computer Engineering student** passionate about **real-world software development and AI-driven systems**.  
+I enjoy working on **data structures, backend logic, databases, and machine learning fundamentals**.  
+Thanks for visiting — I’d love to [connect](https://www.linkedin.com/in/saksham-jagetiya-223404332)!
 
-I learn best by **building → breaking → improving** 🚀
+<div> 
+  
+### <img src="/assests/tech_skills.gif" alt="tech stack" width="18" /> &nbsp;Tech Stack
 
----
+#### Languages
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-jagetiya-223404332)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshamjagetiya4@gmail.com)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 
----
+<div>
+<img align="right" src="/assests/tech_stack.gif" alt="Profile Image" width="300" />
+</div>
 
-## 💻 Tech Stack
+#### Libraries & Frameworks
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+#### Databases & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
+![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+### 🤝🏻 &nbsp;Connect with Me
 
----
+<p>
+<a href="https://www.linkedin.com/in/saksham-jagetiya-223404332" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/>
+</a>
+<a href="mailto:sakshamjagetiya4@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/saksham-program" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub&logoColor=white"/>
+</a>
+</p>
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=saksham-program&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=saksham-program&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-program&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saksham-program&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=saksham-program&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=saksham-program&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- <img align="right" src="/assests/footer_.png" alt="footer" /> -->
