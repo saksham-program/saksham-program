@@ -12,7 +12,7 @@ I enjoy working on **data structures, backend logic, databases, and machine lear
 Thanks for visiting — I’d love to [connect](https://www.linkedin.com/in/saksham-jagetiya-223404332)!
 
 <div> 
-  
+<img align="right" src="/assests/tech_stack.gif" width="320" style="margin-top: -40px;" />
 ### <img src="/assests/tech_skills.gif" alt="tech stack" width="18" /> &nbsp;Tech Stack
 
 #### Languages
