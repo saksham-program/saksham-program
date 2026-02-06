@@ -11,30 +11,28 @@ Welcome to my profile! I'm a **Computer Engineering student** passionate about *
 I enjoy working on **data structures, backend logic, databases, and machine learning fundamentals**.  
 Thanks for visiting — I’d love to [connect](https://www.linkedin.com/in/saksham-jagetiya-223404332)!
 
-<div> 
-  
-### <img src="/assests/tech_skills.gif" alt="tech stack" width="18" /> &nbsp;Tech Stack
+---
 
-#### Languages
+## 💻 Tech Stack
 
+### Languages
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 
-<div>
-<img align="right" src="/assests/tech_stack.gif" alt="Profile Image" width="300" />
+<!-- ✅ CENTERED GIF (THIS IS THE KEY PART) -->
+<div align="center">
+  <img src="/assests/tech_stack.gif" width="420" />
 </div>
 
-#### Libraries & Frameworks
-
+### Libraries & Frameworks
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)
 
-#### Databases & Tools
-
+### Databases & Tools
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -46,18 +44,11 @@ Thanks for visiting — I’d love to [connect](https://www.linkedin.com/in/saks
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-### 🤝🏻 &nbsp;Connect with Me
+---
 
-<p>
-<a href="https://www.linkedin.com/in/saksham-jagetiya-223404332" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/>
-</a>
-<a href="mailto:sakshamjagetiya4@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/saksham-program" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub&logoColor=white"/>
-</a>
-</p>
+## 🤝🏻 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saksham-jagetiya-223404332)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sakshamjagetiya4@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub&logoColor=white)](https://github.com/saksham-program)
 
 <!-- <img align="right" src="/assests/footer_.png" alt="footer" /> -->
