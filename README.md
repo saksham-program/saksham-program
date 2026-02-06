@@ -7,9 +7,20 @@
 [![GitHub followers](https://img.shields.io/github/followers/saksham-program?label=follow&style=social)](https://github.com/saksham-program)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-Welcome to my profile! I'm a **Computer Engineering student** passionate about **real-world software development and AI-driven systems**.  
-I enjoy working on **data structures, backend logic, databases, and machine learning fundamentals**.  
-Thanks for visiting — I’d love to [connect](https://www.linkedin.com/in/saksham-jagetiya-223404332)!
+Hi, I’m **Saksham** 👋  
+
+**Computer Engineering (AI & Analytics)** student focused on building **real-world, production-style AI and data systems**.
+
+I work across the full stack of problem-solving — from **data analysis and machine learning** to **backend logic, system design, and reliability-focused evaluation**.  
+My projects emphasize **explainability, failure-mode analysis, and practical deployment**, rather than demo-only accuracy.
+
+Currently building and experimenting with:
+- Data Analytics & Machine Learning systems  
+- AI reliability, hallucination detection, and safety analysis  
+- Backend logic, databases, and automation workflows  
+
+Always open to **meaningful collaboration and technical discussions**.  
+I’d love to [connect](https://www.linkedin.com/in/saksham-jagetiya-223404332)!
 
 ---
 
