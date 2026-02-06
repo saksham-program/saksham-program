@@ -13,7 +13,6 @@ Thanks for visiting — I’d love to [connect](https://www.linkedin.com/in/saks
 
 <div> 
 <img align="right" src="/assests/tech_stack.gif" width="320" style="margin-top: -40px;" />
-### <img src="/assests/tech_skills.gif" alt="tech stack" width="18" /> &nbsp;Tech Stack
 
 #### Languages
 
