@@ -2,13 +2,6 @@
 
 ### Hi I'm Saksham !! &nbsp; <img src="/assests/hello.gif" alt="hi" width="32" />
 
-![version :1.0.0](https://img.shields.io/badge/version-1.0.0-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=saksham-program&color=red)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/saksham-program?label=follow&style=social)](https://github.com/saksham-program)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
-
-Hi, I’m **Saksham** 👋  
-
 **Computer Engineering (AI & Analytics)** student focused on building **real-world, production-style AI and data systems**.
 
 I work across the full stack of problem-solving — from **data analysis and machine learning** to **backend logic, system design, and reliability-focused evaluation**.  
@@ -21,6 +14,13 @@ Currently building and experimenting with:
 
 Always open to **meaningful collaboration and technical discussions**.  
 I’d love to [connect](https://www.linkedin.com/in/saksham-jagetiya-223404332)!
+
+---
+
+![version :1.0.0](https://img.shields.io/badge/version-1.0.0-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=saksham-program&color=red)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/saksham-program?label=follow&style=social)](https://github.com/saksham-program)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success) 
 
 ---
 
