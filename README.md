@@ -15,16 +15,15 @@ Thanks for visiting — I’d love to [connect](https://www.linkedin.com/in/saks
 
 ## 💻 Tech Stack
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ### Languages
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-
-<!-- ✅ CENTERED GIF (THIS IS THE KEY PART) -->
-<div align="center">
-  <img src="/assests/tech_stack.gif" width="420" />
-</div>
 
 ### Libraries & Frameworks
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
@@ -44,11 +43,30 @@ Thanks for visiting — I’d love to [connect](https://www.linkedin.com/in/saks
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
+</td>
+
+<td width="45%" align="center" valign="middle">
+
+<img src="/assests/tech_stack.gif" width="380" />
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🤝🏻 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saksham-jagetiya-223404332)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sakshamjagetiya4@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub&logoColor=white)](https://github.com/saksham-program)
+
+<p>
+<a href="https://www.linkedin.com/in/saksham-jagetiya-223404332" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/>
+</a>
+<a href="mailto:sakshamjagetiya4@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/saksham-program" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub&logoColor=white"/>
+</a>
+</p>
 
 <!-- <img align="right" src="/assests/footer_.png" alt="footer" /> -->
