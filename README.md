@@ -4,49 +4,35 @@
 
 </div>
 
-## // WHO IS SAKSHAM?
+<div align="center">
 
-I’m **Saksham Jagetiya**, a B.Tech Computer Science & Engineering student specializing in **AI & Analytics**.
+<img src="assets/who-saksham.svg?v=1" alt="Who is Saksham? — Saksham Jagetiya, B.Tech CSE student specializing in AI & Analytics, building AI systems, products and reliable workflows." width="100%">
 
-I build at the point where **AI, software and real problems meet** — machine learning and NLP systems, full-stack products, backend workflows and tools that test whether an AI system can actually be trusted.
-
-I’m less interested in stopping at a notebook or a polished demo. I like the part that comes after it:
-
-**What happens when the data is messy? When the model is wrong? When two users hit the same workflow at once? When an AI answer sounds confident but isn't reliable?**
-
-That is the kind of engineering I’m trying to get better at.
-
-### What I’m building toward
-
-**AI / ML** — intelligent systems, NLP, prediction and model evaluation  
-**AI Reliability** — hallucination analysis, failure modes, consistency and trust  
-**Product Engineering** — full-stack apps, APIs, databases and real workflows  
-**Data & Analytics** — turning raw data into useful decisions
+</div>
 
 <br>
+
+<div align="center">
 
 ![What I do and what I love — AI/ML engineering, AI product building, data & analytics, full-stack development; interests: Gaming, Anime, Building side projects](assets/about-life.svg?v=2)
 
+</div>
+
 <br>
 
-## // WHAT I CARE ABOUT
+<div align="center">
 
-**Build things people can actually use.**  
-A model is only part of a product. I care about the API, database, interface, workflow and the awkward edge cases around it.
+<img src="assets/what-i-care-about.svg?v=1" alt="What I care about — build useful things, understand why systems fail, and keep engineering practical." width="100%">
 
-**Understand why systems fail.**  
-Hallucinations, unreliable predictions, bad data, race conditions and ambiguous inputs are more interesting to me than a perfect happy-path demo.
+</div>
 
-**Keep the engineering practical.**  
-I like ideas that can move from *“this could be useful”* to something a real person can open, test and use.
+<br>
 
-## // CURRENTLY BUILDING
+<div align="center">
 
-**Exploring:** AI reliability · multimodal AI · intelligent products · backend architecture · model evaluation
+<img src="assets/currently-building.svg?v=1" alt="Currently building — AI reliability, multimodal AI, intelligent products, backend architecture, model evaluation, and practical AI systems." width="100%">
 
-**Learning:** how to take an idea from *“this could be useful”* to a system that can survive real users and real edge cases.
-
-**Outside code:** Gaming · Anime · side projects
+</div>
 
 <br>
 
@@ -63,7 +49,11 @@ I like ideas that can move from *“this could be useful”* to something a real
 
 <br>
 
+<div align="center">
+
 ![Tech stack — Python, Java, C++, JavaScript, TypeScript, SQL, scikit-learn, Pandas, NumPy, NLP, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Supabase, REST APIs, Git and GitHub](assets/stack.svg?v=2)
+
+</div>
 
 <br>
 
@@ -77,7 +67,11 @@ That mindset is why my projects move between **AI/ML, data, backend engineering 
 
 <br>
 
+<div align="center">
+
 ![Identity card — Saksham Jagetiya, AI & Analytics Engineer / Student, Pune, India](assets/id-dashboard.svg?v=2)
+
+</div>
 
 <br>
 
