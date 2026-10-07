@@ -1,12 +1,12 @@
 <div align="center">
 
-![Saksham Jagetiya — AI & Analytics Engineer, Pune, India](assets/hero.svg?v=2)
+![Saksham Jagetiya — AI Product Builder, Pune, India](assets/hero.svg?v=2)
 
 </div>
 
 <div align="center">
 
-<img src="assets/who-saksham.svg?v=1" alt="Who is Saksham? — Saksham Jagetiya, B.Tech CSE student specializing in AI & Analytics, building AI systems, products and reliable workflows." width="100%">
+<img src="assets/who-saksham.svg?v=1" alt="What I build — AI and ML systems, AI reliability, product engineering, and data and analytics." width="100%">
 
 </div>
 
@@ -61,7 +61,7 @@
 
 <br>
 
-![Identity card — Saksham Jagetiya, AI & Analytics Engineer / Student, Pune, India](assets/id-dashboard.svg?v=2)
+![Identity card — Saksham Jagetiya, AI Product Builder, B.Tech CSE · AI & Analytics, Pune, India](assets/id-dashboard.svg?v=2)
 
 <br>
 
