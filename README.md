@@ -87,9 +87,24 @@ I’m open to **internships, collaborations, technical conversations and interes
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| [![GitHub — saksham-program](assets/github-card.svg)](https://github.com/saksham-program) | [![LinkedIn — Saksham Jagetiya](assets/linkedin-card.svg)](https://www.linkedin.com/in/saksham-jagetia-223404332/) |
+<table>
+<tr>
+<td valign="middle" width="34%">
+
+<img src="assets/right_pointing.png" alt="Saksham pointing toward the links" width="320">
+
+</td>
+<td valign="middle" width="66%">
+
+<a href="https://github.com/saksham-program"><img src="assets/github-card.svg" alt="GitHub — saksham-program" width="620"></a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/saksham-jagetia-223404332/"><img src="assets/linkedin-card.svg" alt="LinkedIn — Saksham Jagetiya" width="620"></a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
