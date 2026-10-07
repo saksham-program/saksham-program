@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+<title id="title">What I care about</title><desc id="desc">Three engineering principles: build useful things, understand failures, and keep engineering practical.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".58" stop-color="#09111d"/><stop offset="1" stop-color="#170d1d"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2e8cff"/><stop offset=".55" stop-color="#5578ff"/><stop offset="1" stop-color="#ff3d68"/></linearGradient>
+  <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="#5e8dff" opacity=".20"/></pattern>
+  <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#438fff"/><stop offset="1" stop-color="#ff4f73"/></linearGradient>
+</defs>
+<rect x="1.5" y="1.5" width="1197" height="637" rx="34" fill="url(#bg)" stroke="url(#edge)" stroke-width="3"/>
+<rect x="2" y="2" width="1196" height="636" rx="34" fill="url(#dots)"/>
+<g font-family="JetBrains Mono, Fira Code, Consolas, monospace">
+  <text x="58" y="64" font-size="23" fill="#77a9ff">&gt; cat principles.md<span fill="#6e8fff">_</span></text>
+  <text x="1142" y="64" text-anchor="end" font-size="14" fill="#6f809b">02 / PRINCIPLES</text>
+</g>
+<line x1="58" y1="88" x2="1142" y2="88" stroke="#24344e" stroke-width="2"/>
+<text x="58" y="150" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="#f4f7ff">// WHAT I CARE ABOUT</text>
+<g font-family="Arial, Helvetica, sans-serif">
+  <rect x="58" y="190" width="1084" height="112" rx="20" fill="#081522" stroke="#245f9f" stroke-width="2"/>
+  <circle cx="92" cy="226" r="20" fill="#102d4e" stroke="#4b99ff"/><text x="92" y="233" text-anchor="middle" font-size="17" font-weight="800" fill="#78b2ff">01</text>
+  <text x="130" y="226" font-size="25" font-weight="800" fill="#ffffff">Build things people can actually use.</text>
+  <text x="130" y="265" font-size="19" fill="#bdc8d9">A model is only part of a product. I care about the API, database, interface, workflow</text>
+  <text x="130" y="291" font-size="19" fill="#bdc8d9">and the awkward edge cases around it.</text>
+
+  <rect x="58" y="318" width="1084" height="112" rx="20" fill="#0b1423" stroke="#485fba" stroke-width="2"/>
+  <circle cx="92" cy="354" r="20" fill="#1a214a" stroke="#7182ff"/><text x="92" y="361" text-anchor="middle" font-size="17" font-weight="800" fill="#a7b2ff">02</text>
+  <text x="130" y="354" font-size="25" font-weight="800" fill="#ffffff">Understand why systems fail.</text>
+  <text x="130" y="393" font-size="19" fill="#bdc8d9">Hallucinations, unreliable predictions, bad data, race conditions and ambiguous inputs</text>
+  <text x="130" y="419" font-size="19" fill="#bdc8d9">are more interesting to me than a perfect happy-path demo.</text>
+
+  <rect x="58" y="446" width="1084" height="112" rx="20" fill="#160f1c" stroke="#a74b8d" stroke-width="2"/>
+  <circle cx="92" cy="482" r="20" fill="#3a1732" stroke="#ed648f"/><text x="92" y="489" text-anchor="middle" font-size="17" font-weight="800" fill="#ff9ab0">03</text>
+  <text x="130" y="482" font-size="25" font-weight="800" fill="#ffffff">Keep the engineering practical.</text>
+  <text x="130" y="521" font-size="19" fill="#bdc8d9">Move from “this could be useful” to something a real person can open, test and use.</text>
+</g>
+<rect x="58" y="585" width="1084" height="2" fill="url(#accent)"/>
+</svg>
