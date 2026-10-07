@@ -53,13 +53,11 @@
 
 <br>
 
-## // HOW I WORK
+<div align="center">
 
-**Idea → prototype → test → break it → fix it → ship it**
+<img src="assets/how-i-work.svg?v=1" alt="How I work — animated engineering workflow from Idea to Prototype to Test to Break to Fix to Ship, followed by feedback and iteration." width="100%">
 
-I like building quickly, then asking uncomfortable questions about what can fail.
-
-That mindset is why my projects move between **AI/ML, data, backend engineering and product development** instead of staying inside one narrow stack.
+</div>
 
 <br>
 
